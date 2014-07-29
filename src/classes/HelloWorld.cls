@@ -1,1 +1,5 @@
-public class HelloWorld{}
+public class HelloWorld{
+
+	public stativ coid main(){}
+
+}
